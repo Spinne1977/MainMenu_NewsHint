@@ -1,25 +1,25 @@
 {
-    "title": "DeerIsle Endgame",
+    "title": "Relict IsleWarfare",
     "date": "Server News",
 
     "update_text": [
-        "Willkommen auf DeerIsle Endgame."
+        "Willkommen auf Relict IsleWarfare."
     ],
 
-    "title_en": "DeerIsle Endgame",
+    "title_en": "Relict IsleWarfare",
     "date_en": "Server News",
 
     "update_text_en": [
-        "Welcome to DeerIsle Endgame."
+        "Welcome to Relict IsleWarfare."
     ],
 
     "hints_ru": [
-        "Hint|Willkommen auf DeerIsle Endgame!"
+        "Hint|Willkommen auf Relict IsleWarfare!"
     ],
 
     "hints_en": [
-        "Hint|Willkommen auf DeerIsle Endgame!",
-        "Rule|Bitte beachtet die Serverregeln.",
-        "Info|Weitere Informationen findet ihr auf unserem Discord."
+        "Hint|Welcome to Relict IsleWarfare!",
+        "Rule|Please adhere to the server rules.",
+        "Info|Further information can be found on our Discord."
     ]
 }
