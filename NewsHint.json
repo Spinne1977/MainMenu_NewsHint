@@ -1,0 +1,25 @@
+{
+    "title": "DeerIsle Endgame",
+    "date": "Server News",
+
+    "update_text": [
+        "Willkommen auf DeerIsle Endgame."
+    ],
+
+    "title_en": "DeerIsle Endgame",
+    "date_en": "Server News",
+
+    "update_text_en": [
+        "Welcome to DeerIsle Endgame."
+    ],
+
+    "hints_ru": [
+        "Hint|Willkommen auf DeerIsle Endgame!"
+    ],
+
+    "hints_en": [
+        "Hint|Willkommen auf DeerIsle Endgame!",
+        "Rule|Bitte beachtet die Serverregeln.",
+        "Info|Weitere Informationen findet ihr auf unserem Discord."
+    ]
+}
