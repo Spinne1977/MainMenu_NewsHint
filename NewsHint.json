@@ -2,12 +2,20 @@
   "title_de": "AKTUELLE NEWS",
   "date_de": "27.09.2026",
   "update_text_de": [
-    "Es gibt nun auch Bereiche auf dem Server mit radioaktivem Hintergrundrauschen. Diese Bereiche sind also leicht kontaminiert. Bitte verwenden Sie Ihr Dosimeter, um diese Bereiche zu lokalisieren. Sie können das Dosimeter an Ihrem Gürtel oder Rucksack befestigen, auch wenn es eingeschaltet ist. Es schaltet sich nur dann automatisch aus, wenn Sie es eingeschaltet in Ihr Inventar legen."
+    "Wichtiger Hinweis",
+    "",
+    "Es gibt nun auch Bereiche auf dem Server mit radioaktivem Hintergrundrauschen. Diese Bereiche sind also leicht kontaminiert. Bitte verwendet euer Dosimeter, um diese Bereiche zu lokalisieren. Sie können das Dosimeter an Ihrem Gürtel oder Rucksack befestigen, auch wenn es eingeschaltet ist. Seit dem letzten Update sollte es sich nicht mehr automatisch ausschalten, wenn Sie es im Inventar platzieren, während es eingeschaltet ist.",
+    "",
+    "Wir wünschen Euch viel Spaß beim Zocken!"
   ],
   "title_en": "CURRENT NEWS",
   "date_en": "27.09.2026",
   "update_text_en": [
-    "There are now also areas on the server where there is radioactive background noise. In other words, these areas are slightly contaminated. Please use your dosimeter to find out where these areas are. You can attach the dosimeter to your belt or rucksack, even when it is switched on. It will only switch off automatically if you place it in your inventory whilst it is switched on."
+    "Important Notice",
+    "",
+    "There are now areas on the server with radioactive background noise. These areas are therefore slightly contaminated. Please use your dosimeter to locate these areas. You can attach the dosimeter to your belt or backpack, even while it's switched on. Since the last update, it should no longer switch off automatically if you place it in your inventory while it's switched on.",
+    "",
+    "We wish you a lot of fun playing!"
   ],
   "hints_de": [
     "Hint|Stirb nicht!",
