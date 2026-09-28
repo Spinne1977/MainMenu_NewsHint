@@ -2,19 +2,15 @@
   "title_de": "AKTUELLE NEWS",
   "date_de": "27.09.2026",
   "update_text_de": [
-    "Wichtiger Hinweis",
-    "",
-    "Es gibt nun auch Bereiche auf dem Server mit radioaktivem Hintergrundrauschen. Diese Bereiche sind also leicht kontaminiert. Bitte verwendet euer Dosimeter, um diese Bereiche zu lokalisieren. Sie können das Dosimeter an Ihrem Gürtel oder Rucksack befestigen, auch wenn es eingeschaltet ist. Seit dem letzten Update sollte es sich nicht mehr automatisch ausschalten, wenn Sie es im Inventar platzieren, während es eingeschaltet ist.",
-    "",
+    "Wichtiger Hinweis\n\n",
+    "Es gibt nun auch Bereiche auf dem Server mit radioaktivem Hintergrundrauschen. Diese Bereiche sind also leicht kontaminiert. Bitte verwendet euer Dosimeter, um diese Bereiche zu lokalisieren. Sie können das Dosimeter an Ihrem Gürtel oder Rucksack befestigen, auch wenn es eingeschaltet ist. Seit dem letzten Update sollte es sich nicht mehr automatisch ausschalten, wenn Sie es im Inventar platzieren, während es eingeschaltet ist.\n\n",
     "Wir wünschen Euch viel Spaß beim Zocken!"
   ],
   "title_en": "CURRENT NEWS",
   "date_en": "27.09.2026",
   "update_text_en": [
-    "Important Notice",
-    "",
-    "There are now areas on the server with radioactive background noise. These areas are therefore slightly contaminated. Please use your dosimeter to locate these areas. You can attach the dosimeter to your belt or backpack, even while it's switched on. Since the last update, it should no longer switch off automatically if you place it in your inventory while it's switched on.",
-    "",
+    "Important Notice\n\n",
+    "There are now areas on the server with radioactive background noise. These areas are therefore slightly contaminated. Please use your dosimeter to locate these areas. You can attach the dosimeter to your belt or backpack, even while it's switched on. Since the last update, it should no longer switch off automatically if you place it in your inventory while it's switched on.\n\n",
     "We wish you a lot of fun playing!"
   ],
   "hints_de": [
