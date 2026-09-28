@@ -1,15 +1,13 @@
 {
-  "title_de": "RELICT ISLEWARFARE",
-  "date_de": "14.09.2026",
+  "title_de": "AKTUELLE NEWS",
+  "date_de": "27.09.2026",
   "update_text_de": [
-    "Willkommen auf Relict IsleWarfare.",
-    "Hier stehen deine deutschen News."
+    "Es gibt nun auch Bereiche auf dem Server mit radioaktivem Hintergrundrauschen. Diese Bereiche sind also leicht kontaminiert. Bitte verwenden Sie Ihr Dosimeter, um diese Bereiche zu lokalisieren. Sie können das Dosimeter an Ihrem Gürtel oder Rucksack befestigen, auch wenn es eingeschaltet ist. Es schaltet sich nur dann automatisch aus, wenn Sie es eingeschaltet in Ihr Inventar legen."
   ],
-  "title_en": "RELICT ISLEWARFARE",
-  "date_en": "14.09.2026",
+  "title_en": "CURRENT NEWS",
+  "date_en": "27.09.2026",
   "update_text_en": [
-    "Welcome to Relict IsleWarfare.",
-    "Your English news goes here."
+    "There are now also areas on the server where there is radioactive background noise. In other words, these areas are slightly contaminated. Please use your dosimeter to find out where these areas are. You can attach the dosimeter to your belt or rucksack, even when it is switched on. It will only switch off automatically if you place it in your inventory whilst it is switched on."
   ],
   "hints_de": [
     "Hint|Stirb nicht!",
